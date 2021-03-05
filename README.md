@@ -20,3 +20,7 @@
    Pose文件夹中为Openpose姿态估计的实行方法 ，具体原理实现可以参考知网  
    training文件夹为行为识别网络的训练方法，其中data.csv为数据集，由本项目实验室成员采集，train.py为训练函数  
 #4.运行方法  
+   分别运行main.py、main_action.py、main_hemet.py均可以执行程序，注意在执行文件前保证程序中的路径为正确路径。  
+#5.注意事项  
+    行为识别的网络权重已经上传到项目中，为文件training/framewise_recognition.h5文件。  
+    护具佩戴检测的网络权重较大无法上传，如需使用请留言。
