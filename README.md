@@ -23,4 +23,7 @@
    分别运行main.py、main_action.py、main_hemet.py均可以执行程序，注意在执行文件前保证程序中的路径为正确路径。  
 #5.注意事项  
     行为识别的网络权重已经上传到项目中，为文件training/framewise_recognition.h5文件。  
-    护具佩戴检测的网络权重较大无法上传，如需使用请留言。
+    护具佩戴检测的网络权重较大无法上传，如需使用请留言。  
+#6.实验结果  
+    本项目在道路的实时监测，如下图所示  
+![图12-e](https://user-images.githubusercontent.com/55353772/110061178-17a81f00-7da2-11eb-884e-b907d452dadf.png)
